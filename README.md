@@ -1,2 +1,2 @@
 # repo
-meu primeiro repositorio
+console.log("Hello, World");
